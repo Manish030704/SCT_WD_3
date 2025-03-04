@@ -22,7 +22,7 @@ An **interactive Tic-Tac-Toe** web application where two players can play in a f
 
 ## 🛠️ How to Run the Project
 1. **Clone the repository**
-git clone https://github.com/prajwal023/SCT_WD_3.git
+git clone https://github.com/Manish030704/SCT_WD_3.git
 
 2. **Navigate to the project folder**  
 cd SCT_WD_3
